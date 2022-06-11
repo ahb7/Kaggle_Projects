@@ -1,8 +1,8 @@
 Kaggle Competition: The Nature Conservancy Fisheries Monitoring.    
-Detecting and classifying species of fishes using Convolutional Neural Network (CNN) in Keras.    
-Ranked 131 (top 6%) in the Leaderboard (ahb1).  
+Detecting and classifying species of fishes using Convolutional Neural Network (CNN) in Keras. 
 &nbsp;
 
+Ranked 131 (top 6%) in the Leaderboard (ahb1).  
 &nbsp;
 
       
