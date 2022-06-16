@@ -3,7 +3,7 @@ Kaggle Competition: Santander Customer Transaction Prediction.
 Classifying which customers will make a transaction.   
 &nbsp;  
 
-Ranked 801 (top 10%) in the Leaderboard.   
+Ranked 801 (top 10%) in the Leaderboard (ahb1).   
 &nbsp;
 
       
